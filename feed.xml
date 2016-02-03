@@ -352,10 +352,11 @@
     
       <item>
         <title>Reboot</title>
-        <description>&lt;pre&gt;&lt;code&gt;ORG 0x7C00
+        <description>&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;ORG 0x7C00
 jmp 0x0000:start
 start:
 &lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;Welcome to blog 3.0.&lt;/p&gt;
 </description>
