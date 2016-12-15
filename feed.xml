@@ -7,6 +7,49 @@
     <atom:link href="http://davidczarnecki.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>2016 in Video Games</title>
+        <description>&lt;p&gt;Here are all the video games I played in 2016.&lt;/p&gt;
+
+&lt;p&gt;Console:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Tom Clancy’s The Division (XB1)&lt;/li&gt;
+  &lt;li&gt;Dark Souls III (XB1)&lt;/li&gt;
+  &lt;li&gt;Uncharted 4: A Thief’s End (PS4)&lt;/li&gt;
+  &lt;li&gt;Doom (XB1)&lt;/li&gt;
+  &lt;li&gt;Mirror’s Edge Catalyst (XB1)&lt;/li&gt;
+  &lt;li&gt;Inside (XB1)&lt;/li&gt;
+  &lt;li&gt;Adr1ft (PS4)&lt;/li&gt;
+  &lt;li&gt;Gears of War 4 (XB1)&lt;/li&gt;
+  &lt;li&gt;Titanfall 2 (XB1)&lt;/li&gt;
+  &lt;li&gt;Call of Duty: Infinite Warfare (XB1)&lt;/li&gt;
+  &lt;li&gt;Dishonored 2 (XB1)&lt;/li&gt;
+  &lt;li&gt;Watch Dogs 2 (XB1)&lt;/li&gt;
+  &lt;li&gt;Dead Rising 4 (XB1)&lt;/li&gt;
+  &lt;li&gt;The Last Guardian (PS4)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Mobile (all played on iOS):&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Exploding Kittens&lt;/li&gt;
+  &lt;li&gt;twofold inc.&lt;/li&gt;
+  &lt;li&gt;klocki&lt;/li&gt;
+  &lt;li&gt;Panic Drop&lt;/li&gt;
+  &lt;li&gt;BLUK&lt;/li&gt;
+  &lt;li&gt;Hook&lt;/li&gt;
+  &lt;li&gt;Really Bad Chess&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Game of the Year (console): Dark Souls III.
+Game of the Year (mobile): klocki&lt;/p&gt;
+</description>
+        <pubDate>Thu, 15 Dec 2016 00:00:00 -0500</pubDate>
+        <link>http://davidczarnecki.com/2016/12/15/2016-in-video-games.html</link>
+        <guid isPermaLink="true">http://davidczarnecki.com/2016/12/15/2016-in-video-games.html</guid>
+      </item>
+    
+      <item>
         <title>Bye Bye Birdie</title>
         <description>&lt;p&gt;My last tweet was &lt;a href=&quot;https://twitter.com/CzarneckiD/status/796029697272512513&quot;&gt;November 8th, 2016&lt;/a&gt;, Election Day here in the United States. Prior to that, I can’t remember going more than a few days without a tweet or, at the very least, reading Twitter. But on that night, it seemed like the Twitter-verse wasn’t a space I wanted to be a part of. Was it the seemingly endless stream of tweets and retweets from people around the country and around the world, in and out of my network, telling the figurative “me”, the United States, the world, that we had elected the wrong candidate and how fucked we would all be? Kind of.&lt;/p&gt;
 
@@ -378,42 +421,6 @@
         <pubDate>Sat, 05 Oct 2013 00:00:00 -0400</pubDate>
         <link>http://davidczarnecki.com/2013/10/05/reboot.html</link>
         <guid isPermaLink="true">http://davidczarnecki.com/2013/10/05/reboot.html</guid>
-      </item>
-    
-      <item>
-        <title>2012 in Video Games</title>
-        <description>&lt;p&gt;Here are all the video games I played in 2012.&lt;/p&gt;
-
-&lt;p&gt;Console:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Metro 2033 (360)&lt;/li&gt;
-  &lt;li&gt;Gotham City Impostors (360)&lt;/li&gt;
-  &lt;li&gt;Syndicate (360)&lt;/li&gt;
-  &lt;li&gt;Mass Effect 3 (360)&lt;/li&gt;
-  &lt;li&gt;I Am Alive (360)&lt;/li&gt;
-  &lt;li&gt;Journey (PS3)&lt;/li&gt;
-  &lt;li&gt;Fez (360)&lt;/li&gt;
-  &lt;li&gt;Prototype 2 (360)&lt;/li&gt;
-  &lt;li&gt;Max Payne 3 (360)&lt;/li&gt;
-  &lt;li&gt;Lollipop Chainsaw (360)&lt;/li&gt;
-  &lt;li&gt;Spec Ops: The Line (360)&lt;/li&gt;
-  &lt;li&gt;Deadlight (360)&lt;/li&gt;
-  &lt;li&gt;Hybrid (360)&lt;/li&gt;
-  &lt;li&gt;Darksiders II (360)&lt;/li&gt;
-  &lt;li&gt;Mark of the Ninja (360)&lt;/li&gt;
-  &lt;li&gt;Borderlands 2 (360)&lt;/li&gt;
-  &lt;li&gt;Dishonored (360)&lt;/li&gt;
-  &lt;li&gt;Assassin’s Creed III (360)&lt;/li&gt;
-  &lt;li&gt;Halo 4 (360)&lt;/li&gt;
-  &lt;li&gt;Call of Duty: Black Ops 2 (360)&lt;/li&gt;
-  &lt;li&gt;Hitman: Absolution (360)&lt;/li&gt;
-  &lt;li&gt;Far Cry 3 (360)&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-        <pubDate>Thu, 13 Dec 2012 00:00:00 -0500</pubDate>
-        <link>http://davidczarnecki.com/2012/12/13/2012-in-video-games.html</link>
-        <guid isPermaLink="true">http://davidczarnecki.com/2012/12/13/2012-in-video-games.html</guid>
       </item>
     
   </channel>
